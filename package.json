@@ -1,0 +1,14 @@
+{
+  "name": "test-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "git@github.com:wtfaremyinitials/test-github-actions.git",
+  "author": "Will Franzen <wtfranzen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^3.9.0"
+  }
+}
